@@ -1,0 +1,7 @@
+{
+  "name": "NimGame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
